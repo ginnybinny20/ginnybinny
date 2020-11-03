@@ -1,0 +1,49 @@
+{
+	"result": 1,
+	"message": "apps detail",
+	"app": {
+		"version": 0,
+		"id": "com.livevideocallwithgirl.girlvideocall",
+		"icon_thumb": "",
+		"promosingapp": "com.livevideocallwithgirl.girlvideocall",
+		"startapp": "209832583",
+		"vld": 5,
+		"ac": 2,
+		"type": 0,
+		"strt_status": 0
+	},
+	"facebook": {
+		"app_id": "",
+		"fb_banner": "640924569952036_640927176618442",
+		"fb_banner_limit": "5",
+		"fb_interstitial": "640924569952036_640927406618419",
+		"fb_interstitial_limit": "5",
+		"fb_native": "640924569952036_640924996618660",
+		"fb_native_limit": "5",
+		"fb_mid_rect": "640924569952036_640927773285049",
+		"fb_mid_rect_limit": "5",
+		"status": "1",
+		"uflag": "",
+		"data1": "",
+		"data2": "",
+		"data3": "",
+		"data4": ""
+	},
+	"admob": {
+		"app_id": "ca-app-pub-2559886400076048~9073545281",
+		"admob_banner": "ca-app-pub-2559886400076048/9817788924",
+		"admob_banner_limit": "5",
+		"admob_interstitial": "ca-app-pub-2559886400076048/9817788924",
+		"admob_interstitial_limit": "5",
+		"admob_native": "ca-app-pub-2559886400076048/2208576425",
+		"admob_native_limit": "5",
+		"admob_mid_rect": "",
+		"admob_mid_rect_limit": "5",
+		"status": "1",
+		"uflag": "",
+		"data1": "",
+		"data2": "",
+		"data3": "",
+		"data4": ""
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"result": true,
+	"message": "",
+	"app": [{
+			"name": "name1",
+			"id": "com.app1",
+			"image": "https://lh3.googleusercontent.com/zLIB_5TSLSnHfWOUfE3zgk9aQbiQp9jnj4_m6p63s2zs_ppDdihnrwd93B8Qzn2aY7U=s180-rw"
+		},
+		{
+			"name": "name2",
+			"id": "com.app2",
+			"image": "https://lh3.googleusercontent.com/zLIB_5TSLSnHfWOUfE3zgk9aQbiQp9jnj4_m6p63s2zs_ppDdihnrwd93B8Qzn2aY7U=s180-rw"
+		}
+	]
+}

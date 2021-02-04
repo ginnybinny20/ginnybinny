@@ -9,9 +9,9 @@
 		"startapp": "209832583",
 		"vld": 5,
 		"ac": 2,
-		"itype": 2,
-		"btype": 1,
-		"ntype": 1,
+		"itype": 0,
+		"btype": 3,
+		"ntype": 3,
 		"morapp_status": 0,
 		"strt_status": 0,
 		"adshow": 1

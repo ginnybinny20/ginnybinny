@@ -10,8 +10,8 @@
 		"vld": 5,
 		"ac": 2,
 		"itype": 0,
-		"btype": 3,
-		"ntype": 3,
+		"btype": 0,
+		"ntype": 0,
 		"morapp_status": 0,
 		"strt_status": 0,
 		"adshow": 1

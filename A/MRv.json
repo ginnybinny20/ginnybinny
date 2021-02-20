@@ -10,6 +10,16 @@
 			"name": "Pink Princess",
 			"id": "com.pinkprincess.housemap.dollmcpe",
 			"image": "https://play-lh.googleusercontent.com/7efEJmACL-10ncYDQP10-xahhIfmsFIWaTjZBu7nBgoIer9b4zX2WfbCgJEXH232vJc=s180-rw"
+		},
+		{
+			"name": "Guide and Free Diamonds for Free",
+			"id": "guide.daimondfree.freedaimonds.ffdiamonds",
+			"image": ""
+		},
+		{
+			"name": "Video Player",
+			"id": "sax.xnx.video.photogallery.videodownloader",
+			"image": ""
 		}
 	]
 }

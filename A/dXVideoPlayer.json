@@ -7,6 +7,7 @@
 		"icon_thumb": "",
 		"promosingapp": "com.hd.max.sax.video.player",
 		"startapp": "202463896",
+		"unity": "14851",
 		"vld": 5,
 		"ac": 2,
 		"itype": 0,
@@ -14,6 +15,7 @@
 		"ntype": 0,
 		"morapp_status": 1,
 		"strt_status": 0,
+		"unity_status": 0,
 		"adshow": 0
 		
 	},

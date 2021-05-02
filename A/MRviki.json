@@ -1,10 +1,5 @@
 {
 	"result": true,
 	"message": "",
-	"app": [{
-			"name": "Video Call",
-			"id": "com.livevideocallwithgirl.girlvideocall",
-			"image": "https://play-lh.googleusercontent.com/qLPDtb40e2fZt_dC4immb_1WQhGXUucq5qx0RF4Hr-hP5rUS0o_0ACajTtkm90hVvsY=s180-rw"
-		}
-	]
+	"app": []
 }

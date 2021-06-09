@@ -20,8 +20,8 @@
 		
 	},
 	"facebook": {
-		"app_id": "",
-		"fb_banner": "4121184304572689_4411363468888103",
+		"app_id": "4121184304572689_4411363468888103",
+		"fb_banner": "",
 		"fb_native": "",
 		"fb_mid_rect": "",
 		"fb_interstitial": "",

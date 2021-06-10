@@ -34,6 +34,11 @@
 		"data4": ""
 	},
 	"admob": {
+		"app_id_test": "ca-app-pub-3940256099942544~3347511713",
+		"app_open_test": "ca-app-pub-3940256099942544/3419835294",
+		"admob_banner_test": "ca-app-pub-3940256099942544/6300978111",
+		"admob_native_test": "ca-app-pub-3940256099942544/2247696110",
+		"admob_interstitial_test": "ca-app-pub-3940256099942544/1033173712",
 		"app_id": "ca-app-pub-2559886400076048~2097073391",
 		"app_open": "ca-app-pub-2559886400076048/3362904947",
 		"admob_banner": "ca-app-pub-2559886400076048/6919006573",

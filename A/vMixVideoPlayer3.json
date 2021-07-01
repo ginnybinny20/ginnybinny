@@ -3,9 +3,9 @@
 	"message": "apps detail",
 	"app": {
 		"version": 0,
-		"id": "video.mx.player.hd.hot",
+		"id": "video.mx.player.hd.sax",
 		"icon_thumb": "",
-		"promosingapp": "video.mx.player.hd.hot",
+		"promosingapp": "video.mx.player.hd.sax",
 		"startapp": "132",
 		"unity": "123",
 		"vld": 5,

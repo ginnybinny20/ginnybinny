@@ -40,7 +40,7 @@
 		"admob_native": "ca-app-pub-3940256099942544/2247696110",
 		"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
 		"admob_interstitial_video": "ca-app-pub-3940256099942544/8691691433",
-		"admob_interstitial_limit": "5",
+		"admob_interstitial_limit": "15",
 		"admob_mid_rect": "",
 		"status": "1",
 		"uflag": "",

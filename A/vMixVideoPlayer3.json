@@ -11,7 +11,7 @@
 		"vld": 5,
 		"ac": 2,
 		"itype": 1,
-		"btype": 1,
+		"btype": 0,
 		"ntype": 1,
 		"morapp_status": 0,
 		"strt_status": 0,
@@ -21,7 +21,7 @@
 	},
 	"facebook": {
 		"app_id": "",
-		"fb_banner": "",
+		"fb_banner": "787625185252445_787842901897340",
 		"fb_native": "",
 		"fb_mid_rect": "",
 		"fb_interstitial": "",

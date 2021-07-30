@@ -3,9 +3,9 @@
 	"message": "apps detail",
 	"app": {
 		"version": 0,
-		"id": "video.mx.player.hd.sax",
+		"id": "video.mx.player.hd.sax.zx.vx",
 		"icon_thumb": "",
-		"promosingapp": "video.mx.player.hd.sax",
+		"promosingapp": "",
 		"startapp": "132",
 		"unity": "123",
 		"vld": 5,
@@ -16,7 +16,7 @@
 		"morapp_status": 0,
 		"strt_status": 0,
 		"unity_status": 1,
-		"adshow": 0
+		"adshow": 1
 
 	},
 	"facebook": {

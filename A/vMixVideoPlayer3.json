@@ -35,9 +35,9 @@
 	"admob": {
 		"app_id": "",
 		"app_open": "",
-		"admob_banner": "ca-app-pub-2559886400076048/9556332064",
-		"admob_native": "ca-app-pub-2559886400076048/5153697404",
-		"admob_interstitial": "ca-app-pub-2559886400076048/9149972102",
+		"admob_banner": "ca-app-pub-5544590294120314/4984400345",
+		"admob_native": "ca-app-pub-5544590294120314/4322055361",
+		"admob_interstitial": "ca-app-pub-5544590294120314/8261300374",
 		"admob_interstitial_video": "",
 		"admob_interstitial_limit": "15",
 		"admob_mid_rect": "",

@@ -51,6 +51,31 @@
 	"moreapps": {
 		"result": true,
 		"message": "",
-		"app": []
+		"app": [{
+				"name": "Video Call",
+				"id": "com.livevideocallwithgirl.girlvideocall",
+				"image": "https://play-lh.googleusercontent.com/qLPDtb40e2fZt_dC4immb_1WQhGXUucq5qx0RF4Hr-hP5rUS0o_0ACajTtkm90hVvsY=s180-rw"
+			},
+			{
+				"name": "Pink Princess",
+				"id": "com.pinkprincess.housemap.dollmcpe",
+				"image": "https://play-lh.googleusercontent.com/7efEJmACL-10ncYDQP10-xahhIfmsFIWaTjZBu7nBgoIer9b4zX2WfbCgJEXH232vJc=s180-rw"
+			},
+			{
+				"name": "Guide and Free Diamonds for Free",
+				"id": "guide.daimondfree.freedaimonds.ffdiamonds",
+				"image": "https://play-lh.googleusercontent.com/Zs1GucAmqespS4DZ8p-yCeRiVJmYHg1gJzTHMqYyRmLQf4u1lqq8Wpuvavww1gU5mu5W=s180-rw"
+			},
+			{
+				"name": "XVideoPlayer",
+				"id": "com.hd.max.sax.video.player",
+				"image": "https://play-lh.googleusercontent.com/EGDpNczTNTur8kjYY6u-a9N0Bt_h-4lnZQs34xaUxuyCwc7IFyUPLjza6O_QkshBDQ=s180-rw"
+			},
+			{
+				"name": "Video Player",
+				"id": "sax.xnx.video.photogallery.videodownloader",
+				"image": ""
+			}
+		]
 	}
 }

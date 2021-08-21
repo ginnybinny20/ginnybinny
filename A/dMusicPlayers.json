@@ -63,19 +63,14 @@
 				"image": "https://play-lh.googleusercontent.com/7efEJmACL-10ncYDQP10-xahhIfmsFIWaTjZBu7nBgoIer9b4zX2WfbCgJEXH232vJc=s180-rw"
 			},
 			{
-				"name": "Guide and Free Diamonds for Free",
-				"id": "guide.daimondfree.freedaimonds.ffdiamonds",
-				"image": "https://play-lh.googleusercontent.com/Zs1GucAmqespS4DZ8p-yCeRiVJmYHg1gJzTHMqYyRmLQf4u1lqq8Wpuvavww1gU5mu5W=s180-rw"
-			},
-			{
 				"name": "XVideoPlayer",
 				"id": "com.hd.max.sax.video.player",
-				"image": "https://play-lh.googleusercontent.com/EGDpNczTNTur8kjYY6u-a9N0Bt_h-4lnZQs34xaUxuyCwc7IFyUPLjza6O_QkshBDQ=s180-rw"
+				"image": "https://play-lh.googleusercontent.com/K6knJ3hHLKmnyikjk2IDYpmSV496eKbiZliCTOxFVj7tE-pjXZJCS6c8AHLSoAUR4h8=s360-rw"
 			},
 			{
-				"name": "Video Player",
-				"id": "sax.xnx.video.photogallery.videodownloader",
-				"image": ""
+				"name": "Music Player",
+				"id": "com.music.player.audio.mp3.players.songs",
+				"image": "https://play-lh.googleusercontent.com/ozbw4ExzuhqH_qbqsDr8N-kbrIRyDXY2InneQeJJqtFbetZbXrTQ2hTC9w_wo3GXahc=s360-rw"
 			}
 		]
 	}

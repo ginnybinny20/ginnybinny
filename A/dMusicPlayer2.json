@@ -16,7 +16,7 @@
 		"morapp_status": 0,
 		"strt_status": 0,
 		"unity_status": 1,
-		"adshow": 0,
+		"adshow": 1,
 		"app_id": "ca-app-pub-3940256099942544~3347511713",
 		"app_open": "ca-app-pub-3940256099942544/3419835294",
 		"admob_banner": "ca-app-pub-3940256099942544/6300978111",

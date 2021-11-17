@@ -1,7 +1,7 @@
 {
 	"result": 1,
 	"message": "apps detail",
-	"app": {
+	"main": {
 		"version": 0,
 		"id": "com.music.player.audio.mp3.players.songs",
 		"icon_thumb": "",

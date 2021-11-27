@@ -4,7 +4,9 @@
 	"data": {
 		"status": "1",
 		"version": 0,
-		"id": "com.music.player.audio.mp3.players.songs",
+		"id": "com",
+		"livee": true,
+		"update": false,
 		"icon_thumb": "",
 		"promosingapp": "com.music.player.audio.mp3.players.songs",
 		"vld": 5,
@@ -30,7 +32,8 @@
 		"admob_interstitial_video": "",
 		"admob_interstitial_limit": "15",
 		"admob_mid_rect": "",
-		"morapp_status": 0
+		"morapp_status": 0,
+		"moreapp_link": ""
 	},
 	"moreapps": {
 		"result": true,

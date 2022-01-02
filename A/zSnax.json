@@ -5,10 +5,10 @@
 		"status": "1",
 		"version": 0,
 		"id": "com",
-		"livee": false,
+		"livee": true,
 		"update": false,
 		"icon_thumb": "",
-		"promosingapp": "com.music.player.audio.mp3.players.songs",
+		"promosingapp": "",
 		"vld": 5,
 		"ac": 2,
 		"adshow": 1,
@@ -16,9 +16,9 @@
 		"unity": "",
 		"Appodealkey": "",
 		"mopub": "",
-		"itype": 1,
-		"btype": 1,
-		"ntype": 1,
+		"itype": 0,
+		"btype": 0,
+		"ntype": 0,
 		"strt_status": 0,
 		"unity_status": 1,
 		"appodealstatus": 1,
@@ -39,9 +39,9 @@
 		"result": true,
 		"message": "",
 		"app": [{
-				"name": "Music Player",
-				"id": "com.music.player.audio.mp3.players.songs",
-				"image": "https://play-lh.googleusercontent.com/ozbw4ExzuhqH_qbqsDr8N-kbrIRyDXY2InneQeJJqtFbetZbXrTQ2hTC9w_wo3GXahc=s360-rw"
+				"name": "XNX Video Player",
+				"id": "com.songs",
+				"image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
 			}
 		]
 	}

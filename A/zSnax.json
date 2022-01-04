@@ -11,7 +11,7 @@
 		"promosingapp": "",
 		"vld": 5,
 		"ac": 2,
-		"adshow": 0,
+		"adshow": 1,
 		"startapp": "",
 		"unity": "",
 		"Appodealkey": "",
@@ -32,7 +32,7 @@
 		"admob_interstitial_video": "",
 		"admob_interstitial_limit": "15",
 		"admob_mid_rect": "",
-		"morapp_status": 0,
+		"morapp_status": 1,
 		"moreapp_link": ""
 	},
 	"moreapps": {

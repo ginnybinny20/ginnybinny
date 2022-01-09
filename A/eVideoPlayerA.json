@@ -5,7 +5,7 @@
 		"status": "1",
 		"version": 0,
 		"id": "com",
-		"livee": true,
+		"livee": false,
 		"update": false,
 		"icon_thumb": "",
 		"promosingapp": "",

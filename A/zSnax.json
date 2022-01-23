@@ -6,7 +6,7 @@
 		"version": 0,
 		"id": "com",
 		"livee": true,
-		"update": false,
+		"update": true,
 		"icon_thumb": "",
 		"promosingapp": "",
 		"vld": 5,

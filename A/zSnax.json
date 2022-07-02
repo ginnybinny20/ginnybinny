@@ -39,9 +39,9 @@
 		"result": true,
 		"message": "",
 		"app": [{
-				"name": "XNX Video Player",
-				"id": "com.songs",
-				"image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+				"name": "Music Player",
+				"id": "com.music.player.audio.mp3",
+				"image": "https://play-lh.googleusercontent.com/KoH_lMc2qbkGH1xKy080JKJIicuAiJ8c8SdX3ly7WqETboR3nvhgh8IWOq580YthK60=w240-h480-rw"
 			}
 		]
 	}

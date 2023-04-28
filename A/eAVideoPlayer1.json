@@ -4,21 +4,21 @@
 	"data": {
 		"status": "1",
 		"version": 0,
-		"id": "com",		
-		"update": false,	
+		"id": "com",
 		"livee": true,
-		"promosingapp": "com.codertool.barcode",
+		"update": false,
 		"icon_thumb": "",
+		"promosingapp": "",
 		"vld": 5,
 		"ac": 2,
 		"adshow": 1,
 		"startapp": "",
-		"unity": "4551007",
+		"unity": "4549753",
 		"Appodealkey": "",
 		"mopub": "",
-		"itype": 1,
-		"btype": 1,
-		"ntype": 1,
+		"itype": 0,
+		"btype": 0,
+		"ntype": 2,
 		"strt_status": 0,
 		"unity_status": 1,
 		"appodealstatus": 1,
@@ -28,7 +28,11 @@
 		"app_open": "ca-app-pub-3940256099942544/3419835294",
 		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
 		"admob_native": "ca-app-pub-3940256099942544/2247696110",
-		"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",	
+		"fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"fb_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"fb_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",			
+		"fb_native_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",	
 		"admob_interstitial_video": "",
 		"admob_interstitial_limit": "15",
 		"admob_mid_rect": "",
@@ -38,11 +42,6 @@
 	"moreapps": {
 		"result": true,
 		"message": "",
-		"app": [{
-				"name": "XNX Video Player",
-				"id": "com.songs",
-				"image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
-			}
-		]
+		"app": []
 	}
 }

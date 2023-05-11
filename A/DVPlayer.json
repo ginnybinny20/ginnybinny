@@ -5,8 +5,8 @@
 		"status": "1",
 		"version": 0,
 		"id": "com",
-		"livee": false,
-		"update": true,
+		"livee": ture,
+		"update": false,
 		"icon_thumb": "",
 		"promosingapp": "",
 		"vld": 5,
@@ -37,7 +37,7 @@
 		"admob_interstitial_limit": "15",
 		"admob_mid_rect": "",
 		"morapp_status": 1,
-		"moreapp_link": "https://play.google.com/store/apps/developer?id=WhatsApp+LLC"
+		"moreapp_link": "https://play.google.com/store/apps/developer?id="
 	},
 	"moreapps": {
 		"result": true,
